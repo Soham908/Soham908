@@ -30,13 +30,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soham908&theme=dark" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham908&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soham908&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soham908&theme=dark" alt="GitHub Streak" style="display:inline-block; margin-right: 10;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soham908&show_icons=true&theme=dark" alt="GitHub Stats" style="display:inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham908&layout=compact&theme=dark" alt="Top Languages" style="display:inline-block; margin-right: 10;" />
 </p>
 
 ## 📫 Contact Me
